@@ -19,4 +19,5 @@ pkg install python git
 pkg install termux-api
 git clone https://github.com/NORmal8r/fhtx.git
 # run
+cd fhtx
 python fhtx.py
