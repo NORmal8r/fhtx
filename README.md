@@ -17,3 +17,6 @@ pkg update && pkg upgrade
 pkg install python git
 # Optional for non-root scanning:
 pkg install termux-api
+git clone https://github.com/NORmal8r/fhtx.git
+# run
+python fhtx.py
